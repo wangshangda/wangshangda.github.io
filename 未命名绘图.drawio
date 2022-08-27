@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T03:26:52.721Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cCYRsoe2K557_B11avp-" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-27T03:38:03.512Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HarPb9D6zVRQyvfF5AG7" version="20.2.7" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1422" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,23 +7,40 @@
         <mxCell id="A0ggX3b8KuLQ0WbUf5_O-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="A0ggX3b8KuLQ0WbUf5_O-1" target="A0ggX3b8KuLQ0WbUf5_O-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-1" value="&amp;nbsp;签到" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="A0ggX3b8KuLQ0WbUf5_O-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="A0ggX3b8KuLQ0WbUf5_O-2" target="A0ggX3b8KuLQ0WbUf5_O-5">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-2" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A0ggX3b8KuLQ0WbUf5_O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="A0ggX3b8KuLQ0WbUf5_O-3" target="A0ggX3b8KuLQ0WbUf5_O-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="A0ggX3b8KuLQ0WbUf5_O-5" target="A0ggX3b8KuLQ0WbUf5_O-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="270" />
+              <mxPoint x="500" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="A0ggX3b8KuLQ0WbUf5_O-5" target="A0ggX3b8KuLQ0WbUf5_O-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-5" value="积分货币" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-1" value="&amp;nbsp;签到" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-2" value="分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="A0ggX3b8KuLQ0WbUf5_O-3" value="完成任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-5" value="积分货币" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-13" value="解锁作品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A0ggX3b8KuLQ0WbUf5_O-14" value="兑换商品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
